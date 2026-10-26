@@ -1,3 +1,5 @@
+> **이 저장소는 더 이상 쓰지 않습니다.** 최신 RemoteDesk는 https://sanghakbae.github.io/remotedesk-releases/ 에서 받으세요.
+
 # RemoteDesk 다운로드
 
 macOS ↔ Windows 원격 데스크톱. 화면 보기, 마우스/키보드 제어, **복사·붙여넣기(텍스트·이미지·파일)** 양방향 공유.
